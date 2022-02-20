@@ -8,3 +8,12 @@ Paleta de cores usada: #e71d36, #ff9f1c, #525252, #b7c3f3, #9cd08f
 
 
 Fontes Utilizadas: Open Sans
+
+
+Site:
+
+![image](https://user-images.githubusercontent.com/24756809/154866843-3fe6d99b-ad76-47b9-b194-47320903af39.png)
+
+![image](https://user-images.githubusercontent.com/24756809/154866850-6a070496-b95e-4132-9a5a-ac992ba608ab.png)
+
+![image](https://user-images.githubusercontent.com/24756809/154866860-27d8b008-1537-431d-ad5f-80060e54cded.png)
